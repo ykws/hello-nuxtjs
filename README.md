@@ -1,2 +1,3 @@
-# hello-nuxtjs
-Get Started Nuxt.js
+# Get Started Nuxt.js
+
+https://nuxtjs.org/
