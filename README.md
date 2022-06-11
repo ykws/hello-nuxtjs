@@ -1,6 +1,6 @@
 # Get Started Nuxt.js
 
-[![macOS](https://img.shields.io/badge/macOS-Catalina-black)](https://developer.apple.com/macos/)
+[![macOS](https://img.shields.io/badge/macOS-Monterey-black)](https://developer.apple.com/macos/)
 
 > The Progressive Vue.js Framework
 
